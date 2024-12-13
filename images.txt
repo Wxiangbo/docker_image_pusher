@@ -1,2 +1,2 @@
 
-minio/minio
+elasticsearch:7.17.23
